@@ -1,0 +1,36 @@
+# KCD Texas 2025 Planning
+
+## Distribution List
+
+organizers-texas@kubernetescommunitydays.org
+
+## Organizers
+
+| Name | GitHub | Email |
+|--|--|--|
+| Chad Crowell | @chadmcrowell | chad@kubeskills.com |
+| Rafa Brito | @brito-rafa | rafa@stormforge.io |
+| Mark Lavi | | |
+| Mars Toktonaliev | | |
+| Mooez | | |
+| Christer Castro | | | 
+| Harsha Thirimanna | | |
+
+
+## Shared Drive
+
+[DropBox](https://www.dropbox.com/scl/fo/qgit4mcspola4lr1ycvl0/APaH4dp7MtbsLhNZECmgcJY?rlkey=fyayb1a00wopdfr972cl7orxg&st=4xdjryzu&dl=0)
+
+## CNCF 
+
+[Tracking Issue](https://github.com/cncf/kubernetes-community-days/issues/587)
+
+
+## Slack Channels
+
+[Attendees - Public](https://cloud-native.slack.com/archives/CU88RTEKA)
+
+[Organizers - Private](https://cloud-native.slack.com/archives/C055P08AVGX)
+
+[Speakers - Private](https://cloud-native.slack.com/archives/C055P08AVGX)
+
