@@ -10,12 +10,13 @@ organizers-texas@kubernetescommunitydays.org
 |--|--|--|
 | Chad Crowell | @chadmcrowell | chad@kubeskills.com |
 | Rafa Brito | @brito-rafa | rafa@stormforge.io |
-| Mark Lavi | | |
+| Mark Lavi | @mlavi | |
 | Mars Toktonaliev | | |
-| Mooez | | |
-| Christer Castro | | | 
-| Harsha Thirimanna | | |
-
+| Mooez | @moezmustafa | |
+| Christer Castro | @cristhercastro | | 
+| Harsha Thirimanna | @harsha1979 | |
+| Daniel Oh | @danieloh30 | |
+| Manish Tyagi | @money8203 | |
 
 ## Shared Drive
 
