@@ -11,12 +11,13 @@ organizers-texas@kubernetescommunitydays.org
 | Chad Crowell | @chadmcrowell | chad@kubeskills.com |
 | Rafa Brito | @brito-rafa | rafa@stormforge.io |
 | Mark Lavi | @mlavi | |
-| Mars Toktonaliev | | |
+| Mars Toktonaliev | @tokt | |
 | Mooez | @moezmustafa | |
 | Christer Castro | @cristhercastro | | 
 | Harsha Thirimanna | @harsha1979 | |
 | Daniel Oh | @danieloh30 | |
 | Manish Tyagi | @money8203 | |
+| Eddie Wassef | @ewassef | |
 
 ## Shared Drive
 
@@ -25,6 +26,8 @@ organizers-texas@kubernetescommunitydays.org
 ## CNCF 
 
 [Tracking Issue](https://github.com/cncf/kubernetes-community-days/issues/587)
+
+[Spreadsheet with Action Items](https://www.dropbox.com/scl/fi/3eo6cts9loanerkn13zig/KCD-Draft-Timeline-Texas-2025.xlsx?dl=0&rlkey=kctwd5fldbjb4un4jjsgpbr5u)
 
 
 ## Slack Channels
