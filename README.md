@@ -14,7 +14,7 @@ organizers-texas@kubernetescommunitydays.org
 | Mars Toktonaliev | @tokt | |
 | Mooez | @moezmustafa | |
 | Christer Castro | @cristhercastro | | 
-| Harsha Thirimanna | @harsha1979 | |
+| Harsha Thirimanna | @harsha1979 | harsha.thirimanna@gmail.com |
 | Daniel Oh | @danieloh30 | |
 | Manish Tyagi | @money8203 | |
 | Eddie Wassef | @ewassef | |
