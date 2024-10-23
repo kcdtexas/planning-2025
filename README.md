@@ -19,6 +19,10 @@ organizers-texas@kubernetescommunitydays.org
 | Manish Tyagi | @money8203 | |
 | Eddie Wassef | @ewassef | |
 
+## Organizers' Meeting Notes
+
+[Notes](https://docs.google.com/document/d/14eNMgt22mHe6OxUgqp08AAERvUHbNIkzRlBoZEZNFLI/edit)
+
 ## Shared Drive
 
 [DropBox](https://www.dropbox.com/scl/fo/qgit4mcspola4lr1ycvl0/APaH4dp7MtbsLhNZECmgcJY?rlkey=fyayb1a00wopdfr972cl7orxg&st=4xdjryzu&dl=0)
