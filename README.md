@@ -19,6 +19,10 @@ organizers-texas@kubernetescommunitydays.org
 | Manish Tyagi | @money8203 | |
 | Eddie Wassef | @ewassef | |
 
+## Committees
+
+[Committees, roles and responsibilities](https://github.com/kcdtexas/committees)
+
 ## Organizers' Meeting Notes
 
 [Notes](https://docs.google.com/document/d/14eNMgt22mHe6OxUgqp08AAERvUHbNIkzRlBoZEZNFLI/edit)
