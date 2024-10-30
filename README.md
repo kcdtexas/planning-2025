@@ -17,7 +17,7 @@ organizers-texas@kubernetescommunitydays.org
 | Harsha Thirimanna | @harsha1979 | harsha.thirimanna@gmail.com |
 | Daniel Oh | @danieloh30 | |
 | Manish Tyagi | @money8203 | |
-| Eddie Wassef | @ewassef | |
+| Eddie Wassef | @ewassef | eddie@archetypical.software |
 
 ## Committees
 
