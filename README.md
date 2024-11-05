@@ -10,14 +10,17 @@ organizers-texas@kubernetescommunitydays.org
 |--|--|--|
 | Chad Crowell | @chadmcrowell | chad@kubeskills.com |
 | Rafa Brito | @brito-rafa | rafa@stormforge.io |
-| Mark Lavi | @mlavi | |
 | Mars Toktonaliev | @tokt | |
 | Mooez | @moezmustafa | |
-| Christer Castro | @cristhercastro | | 
+| Christer Castro | @cristhercastro | cristher@cuemby.com | 
 | Harsha Thirimanna | @harsha1979 | harsha.thirimanna@gmail.com |
 | Daniel Oh | @danieloh30 | |
-| Manish Tyagi | @money8203 | |
+| Manish Tyagi | @money8203 | manishtyagi088@gmail.com |
 | Eddie Wassef | @ewassef | eddie@archetypical.software |
+| Ali Ibrahim | | |
+| Jamie Parker | | jamparke@redhat.com |
+| Jeff Gallimore | | |
+| Mark Lavi | @mlavi | |
 
 ## Committees
 
@@ -33,6 +36,8 @@ organizers-texas@kubernetescommunitydays.org
 
 ## CNCF 
 
+[Bevy Page](https://community.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-austin-2025/)
+
 [Tracking Issue](https://github.com/cncf/kubernetes-community-days/issues/587)
 
 [Spreadsheet with Action Items](https://www.dropbox.com/scl/fi/3eo6cts9loanerkn13zig/KCD-Draft-Timeline-Texas-2025.xlsx?dl=0&rlkey=kctwd5fldbjb4un4jjsgpbr5u)
@@ -46,3 +51,6 @@ organizers-texas@kubernetescommunitydays.org
 
 [Speakers - Private](https://cloud-native.slack.com/archives/C055P08AVGX)
 
+## Social Media
+
+[Link Tree](https://linktr.ee/Texaskcd)
