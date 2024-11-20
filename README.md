@@ -27,9 +27,15 @@ organizers-texas@kubernetescommunitydays.org
 
 [Committees, roles and responsibilities](https://github.com/kcdtexas/committees)
 
-## Organizers' Meeting Notes
+## Organizers' Meeting Notes and Google Meet
 
 [Notes](https://docs.google.com/document/d/14eNMgt22mHe6OxUgqp08AAERvUHbNIkzRlBoZEZNFLI/edit)
+
+Calls every other Wednesday
+Wednesday, November 20 · 12:00 – 1:00pm
+Time zone: America/Chicago
+[Google Meet](https://meet.google.com/bni-rvdg-kks)
+
 
 ## Shared Drive
 
