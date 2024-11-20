@@ -32,8 +32,9 @@ organizers-texas@kubernetescommunitydays.org
 [Notes](https://docs.google.com/document/d/14eNMgt22mHe6OxUgqp08AAERvUHbNIkzRlBoZEZNFLI/edit)
 
 Calls every other Wednesday
-Wednesday, November 20 · 12:00 – 1:00pm
+12:00 – 1:00pm
 Time zone: America/Chicago
+
 [Google Meet](https://meet.google.com/bni-rvdg-kks)
 
 
