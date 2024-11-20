@@ -21,6 +21,7 @@ organizers-texas@kubernetescommunitydays.org
 | Jamie Parker | | jamparke@redhat.com |
 | Jeff Gallimore | | |
 | Mark Lavi | @mlavi | |
+| Dan Kirkpatrick | |
 
 ## Committees
 
