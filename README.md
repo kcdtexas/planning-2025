@@ -24,7 +24,7 @@ organizers-texas@kubernetescommunitydays.org
 | Dan Kirkpatrick | | |
 | Richard Boyd | @richardboydii | richard.boydii@gmail.com |
 | Crystal Poenisch | | |
-| Damian Igbe | | |
+| Damian Igbe | igbedo | |
 
 ## Committees
 
