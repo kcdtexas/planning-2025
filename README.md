@@ -22,7 +22,8 @@ organizers-texas@kubernetescommunitydays.org
 | Jeff Gallimore | | |
 | Mark Lavi | @mlavi | mark.lavi@veeam.com |
 | Dan Kirkpatrick | | |
-| Richard Boyd | | richard.boydii@gmail.com |
+| Richard Boyd | @richardboydii | richard.boydii@gmail.com |
+| Crystal Poenisch | | |
 
 ## Committees
 
