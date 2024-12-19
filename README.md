@@ -14,14 +14,14 @@ organizers-texas@kubernetescommunitydays.org
 | Mooez | @moezmustafa | moeez.mustafa@outlook.com |
 | Christer Castro | @cristhercastro | cristher@cuemby.com | 
 | Harsha Thirimanna | @harsha1979 | harsha.thirimanna@gmail.com |
-| Daniel Oh | @danieloh30 | |
+| Daniel Oh | @danieloh30 | doh@redhat.com |
 | Manish Tyagi | @money8203 | manishtyagi088@gmail.com |
 | Eddie Wassef | @ewassef | eddie@archetypical.software |
-| Ali Ibrahim | | aly.ibrahim@gmail.com |
+| Aly Ibrahim | | aly.ibrahim@gmail.com |
 | Jamie Parker | | jamparke@redhat.com |
 | Jeff Gallimore | | |
 | Mark Lavi | @mlavi | mark.lavi@veeam.com |
-| Dan Kirkpatrick | | |
+| Dan Kirkpatrick | | dan.kirkpatrick@gmail.com  |
 | Richard Boyd | @richardboydii | richard.boydii@gmail.com |
 | Crystal Poenisch | | |
 | Damian Igbe | igbedo | |
